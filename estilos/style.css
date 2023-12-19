@@ -31,7 +31,7 @@ section#login {
     background-color: rgba(255, 255, 255, 0.623);
     box-shadow: 2px solid rgba(0, 0, 0, 0.644);
     width: 250px;
-    height: 515px;
+    height: 580px;
     border-radius: 20px;
     overflow: hidden;
     /*! overflow: hidden; tudo que tiver fora dessa div será escondido */
@@ -59,6 +59,8 @@ div#formulario > h1 {
 }
 div#formulario > p {
     font-size: 0.8em;
+    padding: 10px;
+    text-align: justify;
 }
 
 

@@ -34,7 +34,7 @@ section#login {
     border-radius: 20px;
     overflow: hidden;
     /*! overflow: hidden; tudo que tiver fora dessa div será escondido */
-    box-shadow: 0px 0px 10px solid rgba(0, 0, 0, 0.450);
+    box-shadow: 2px 2px 10px solid rgba(0, 0, 0, 0.450);
     transition: width 0.3s, height 0.3s;
     transition-timing-function: ease ;
 }
